@@ -14,7 +14,5 @@
 <p>The following word uses a <tt>monospaced</tt> typeface.</p>
 <p>The following word uses a <big>big</big> typeface.</p>
 <p><strong>This text is important!</strong></p>
-<h2> Image </h2>
-<img src="C:fsd.jpeg" alt="fSD" width="500" height="500">
 </body>
 </html>
